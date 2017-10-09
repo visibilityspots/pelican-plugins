@@ -19,8 +19,8 @@ from docutils.core import Publisher
 from pelican import signals
 from pelican.readers import RstReader, PelicanHTMLTranslator
 
-from .roles import *
-from .directives import *
+from roles import *
+from directives import *
 
 
 class HTMLTranslator(PelicanHTMLTranslator):
