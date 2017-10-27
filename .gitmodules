@@ -138,4 +138,4 @@
 	url = https://github.com/nogaems/pelican-ert.git
 [submodule "readtime"]
 	path = readtime
-	url = git@github.com:DEKHTIARJonathan/pelican-readtime.git
+	url = https://github.com/DEKHTIARJonathan/pelican-readtime.git
